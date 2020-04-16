@@ -1,7 +1,7 @@
 # PsvRepair
 Repair damaged Pluralsight videos
 
-Please use the binary under cytPSV\bin\x86\Release directory.
+### The release is in the root directory inside x86Release.zip.
 
 #### There are some issues with the x64 build. So, please use the x86 version instead. Also, make a backup of the files before recovering.
 
